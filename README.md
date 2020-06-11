@@ -22,6 +22,6 @@ The .ipynb file is big and may take time to load. I have also uploaded the only 
 <p>You will have use the training data to build models/analytical solution and finally apply it to test data to measure the performance and robustness of the models.</p>
 <p>You should use the variable : 'issue_d' to divide the data in the above time periods, the variable is in <month>-<year> format.
   Data and Problem Details </p>
-<p>Objective : You have to build a data model to predict the probability of default, and choose a cut-off based on what you feel is suitable. Alternatively you can also use a modelling technique which gives binary output.</p>
+  <p><b>Objective</b> : You have to build a data model to predict the probability of default, and choose a cut-off based on what you feel is suitable. Alternatively you can also use a modelling technique which gives binary output.</p>
   <p>You have to do the following:</p>
 <p>Based on the data that is available during loan application, build a model to predict default in the future. This will help the company in deciding whether or not to pass the loan. Also note that the data contains defaulters, successful payers and customers who were current during that time. To simplify the problem, customers under 'current' status have been considered as non-defaulters in the dataset.</p>
